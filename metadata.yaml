@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A sermon preach''d before the Right Honourable the Lord-Mayor : the aldermen
   and citizens of London
 
